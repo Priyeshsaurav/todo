@@ -20,6 +20,7 @@ const App = () => {
       setEditId(0);
       setTodo("");
       return;
+      //i am their for u
 
     }
 
